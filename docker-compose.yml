@@ -1,7 +1,7 @@
 version: '3.0'
 services:
   web:
-    image: alexcheng/magento2
+    image: blub7/mag2web
     ports:
       - "80:80"
     links:
